@@ -1,3 +1,4 @@
+link: https://product-pre-view-card.netlify.app/
 # Product preview card component
 # Original
 
