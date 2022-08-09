@@ -4,7 +4,8 @@
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 # Copy: Desktop
-![Screenshot (183)](https://user-images.githubusercontent.com/76725537/183594548-d3df865d-a004-400f-919d-cb148e3c19c9.png)
+![Screenshot (185)](https://user-images.githubusercontent.com/76725537/183595938-23c9f56d-94a0-4662-93d1-359ee1322c74.png)
+
 # Copy: Mobile
 ![Screenshot (184)](https://user-images.githubusercontent.com/76725537/183594606-4a472296-fdb7-43ec-aa27-439a88e1603a.png)
 
